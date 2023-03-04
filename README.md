@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/evilsadvocate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/evilsadvocate" height="30" width="40" /></a>
 <a href="https://www.facebook.com/saad.hossain.haunted.joker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/saad.hossain.haunted.joker/" height="30" width="40" /></a>
-<a href="https://instagram.com/evilzadvocate_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evilzadvocate_27" height="30" width="40" /></a>
+<a href="https://instagram.com/devilz_advocate27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evilzadvocate_27" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
